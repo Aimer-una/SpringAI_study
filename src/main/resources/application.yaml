@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: Aimer-ai
+  ai:
+    ollama:
+      base-url: http://localhost:11434
+      chat:
+        model: deepseek-r1
